@@ -47,7 +47,7 @@ async def upgradecm(bot,message):
 	Price Rs 30  ind /🌎 0.5$  per Month
 	
 	**💎 Diamond 💎**
-	Daily Upload limit 100GB
+	Daily Upload limit 1000GB
 	Price Rs 50  ind /🌎 0.8$  per Month
 	
 	
